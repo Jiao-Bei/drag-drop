@@ -1,0 +1,40 @@
+{
+  "name": "drag-pull",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 8090",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "core-js": "^3.8.3",
+    "dns": "^0.2.2",
+    "element-china-area-data": "^5.0.2",
+    "element-plus": "^2.2.28",
+    "leader-line": "^1.0.7",
+    "leader-line-new": "^1.1.9",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vitejs/plugin-vue-jsx": "^3.0.0",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-plugin-component": "^1.1.1",
+    "less": "^4.1.2",
+    "less-loader": "^8.1.1",
+    "sass": "^1.58.0",
+    "skeleton-loader": "^2.0.0",
+    "unplugin-auto-import": "^0.12.1",
+    "unplugin-vue-components": "^0.22.12",
+    "vite": "^4.0.0",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
